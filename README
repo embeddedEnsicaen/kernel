@@ -1,0 +1,5 @@
+patched 3.8.13 linux kernel for beaglebone black project project
+
+- patches et kernel version from beagle github :
+https://github.com/beagleboard/kernel/tree/3.8
+
